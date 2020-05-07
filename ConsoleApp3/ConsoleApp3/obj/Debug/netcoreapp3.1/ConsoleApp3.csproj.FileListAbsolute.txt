@@ -1,0 +1,13 @@
+E:\Source Code\Git\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csprojAssemblyReference.cache
+E:\Source Code\Git\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+E:\Source Code\Git\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfoInputs.cache
+E:\Source Code\Git\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfo.cs
+E:\Source Code\Git\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.exe
+E:\Source Code\Git\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.deps.json
+E:\Source Code\Git\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.json
+E:\Source Code\Git\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.dev.json
+E:\Source Code\Git\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.dll
+E:\Source Code\Git\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.pdb
+E:\Source Code\Git\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.dll
+E:\Source Code\Git\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.pdb
+E:\Source Code\Git\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.genruntimeconfig.cache
